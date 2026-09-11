@@ -25,7 +25,7 @@ into meaningful business insights.
 
 ### 📂 Featured Projects
 
-- Sales Performance Analysis
+### Sales Performance Analysis
 SQL + Power BI
 
  Analyzed sales data to identify:
@@ -34,7 +34,7 @@ SQL + Power BI
 - Regional performance
 - Customer segments
 
-- E-commerce Dashboard
+### E-commerce Dashboard
 Excel + Power BI
 
  Built an interactive dashboard to track:
@@ -43,7 +43,7 @@ Excel + Power BI
 - Profit
 - Average Order Value
   
-- Customer Churn Analysis
+### Customer Churn Analysis
 Python + SQL
 
  Analyzed customer behavior and identified factors
