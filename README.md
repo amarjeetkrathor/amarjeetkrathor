@@ -28,7 +28,7 @@ into meaningful business insights.
 - Sales Performance Analysis
 SQL + Power BI
 
-Analyzed sales data to identify:
+ Analyzed sales data to identify:
 - Revenue trends
 - Top-performing products
 - Regional performance
@@ -37,7 +37,7 @@ Analyzed sales data to identify:
 - E-commerce Dashboard
 Excel + Power BI
 
-Built an interactive dashboard to track:
+ Built an interactive dashboard to track:
 - Revenue
 - Orders
 - Profit
@@ -46,8 +46,8 @@ Built an interactive dashboard to track:
 - Customer Churn Analysis
 Python + SQL
 
-Analyzed customer behavior and identified factors
-associated with customer churn.
+ Analyzed customer behavior and identified factors
+ associated with customer churn.
 
 ### 📫 Connect With Me
 
