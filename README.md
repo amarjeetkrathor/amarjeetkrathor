@@ -25,7 +25,29 @@ into meaningful business insights.
 
 ### 📂 Featured Projects
 
-- 
+- Sales Performance Analysis
+SQL + Power BI
+
+Analyzed sales data to identify:
+- Revenue trends
+- Top-performing products
+- Regional performance
+- Customer segments
+
+- E-commerce Dashboard
+Excel + Power BI
+
+Built an interactive dashboard to track:
+- Revenue
+- Orders
+- Profit
+- Average Order Value
+  
+- Customer Churn Analysis
+Python + SQL
+
+Analyzed customer behavior and identified factors
+associated with customer churn.
 
 ### 📫 Connect With Me
 
