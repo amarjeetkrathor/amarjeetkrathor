@@ -31,3 +31,8 @@ into meaningful business insights.
 
 - LinkedIn: https://www.linkedin.com/in/amarjeet-kumar-singh
 - Email: amarjeetkrathor@gmail.com
+
+I'm currently looking for opportunities in Data Analytics / Business Analytics / BI Analytics.
+
+
+⭐ If you find my projects useful, feel free to explore the repositories.
